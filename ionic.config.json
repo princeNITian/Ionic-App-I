@@ -1,5 +1,7 @@
 {
   "name": "awesomeplace",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
